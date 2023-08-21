@@ -10,3 +10,6 @@ export const setError = (errorMessage) => ({
 export const resetError = () => ({
   type: RESET_ERROR,
 });
+
+
+//New changes
